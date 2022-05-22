@@ -50,7 +50,10 @@ I present to your attention a taxi service project, where all the necessary func
   <ul>
           <li>Fork</li>
           <li>copy reference of a new project</li>
-          <li> open Intellij IDEA -> tool bar -> "VCS" -> "Checkout from Version Control" -> "Git" -> insert your url -> click "Clone"</li>
+          <li> open Intellij IDEA -> tool bar -> VCS -> Checkout from Version Control -> Git -> insert your url -> click Clone</li>
+          <li> connect Tomcat: Edit Configurations... -> click "+" in left corner -> choose the Tomcat Server -> Local -> Fix -> clean Application context -> Apply -> OK</li>
+          <li>connect MySql: click "Database" in right corner -> click "+" in left corner -> Data Source -> MySql -> connect to your shema -> copy content from init_db.sql -> create your own SQL-query</li>
+          <li>Run Tomcat</li>
           <li>Mazeltov!👏</li>
         </ul>
   
