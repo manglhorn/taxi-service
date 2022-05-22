@@ -55,7 +55,7 @@ I present to your attention a taxi service project, where all the necessary func
         </ul>
   
   
-  <hr align="center" width="1000" size="2" color="#ff0000" />
+  <hr align="center" width="700" size="2" color="#ff0000" />
   
  <p>In a while I'll add tests and Logger to demonstrate my knowledge in this.
  Thank you for your interest =)</p>
